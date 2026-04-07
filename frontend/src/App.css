@@ -12,3 +12,51 @@ body {
 .card {
   border-radius: 10px;
 }
+.login-page {
+  height: 100vh;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+}
+
+.login-card {
+  width: 420px;
+  border-radius: 12px;
+}
+
+.login-input {
+  height: 45px;
+  border-radius: 8px;
+}
+
+.login-btn {
+  height: 45px;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+.login-btn:hover {
+  background-color: #0eca72;
+}
+.register-page {
+  height: 100vh;
+  background: linear-gradient(135deg, #141e30, #243b55);
+}
+
+.register-card {
+  width: 450px;
+  border-radius: 12px;
+}
+
+.register-input {
+  height: 45px;
+  border-radius: 8px;
+}
+
+.register-btn {
+  height: 45px;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+.register-btn:hover {
+  background-color: #0d6efd;
+}
